@@ -1,0 +1,1 @@
+The figure describes transcription of DNA into messenger RNA (pink and yellow peaks), and the ATAC peaks (light blue and purple) show the regions of open chromatin. It does not overlap with any exons, and the non coding regions are open. 
